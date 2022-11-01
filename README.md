@@ -28,7 +28,7 @@ A new landing page called "My New Website" is created using HTML and CSS learned
 * The page is deployed to GitHub Pages.
 
 ## Usage
-The landing page is accessed by the URL: rbhumbla1.github.io/01-Mini-Project
+The landing page is accessed by the URL: https://rbhumbla1.github.io/01-Mini-Project/
 
 ## Credits
 

@@ -49,6 +49,7 @@ footer {
     position: fixed;
     top: 0;
     left: 0;
+    border-bottom: 10px solid #DDAF94;
 }
 
 /* Sets display of all elements with class selector to inline */
