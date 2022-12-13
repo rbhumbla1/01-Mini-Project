@@ -1,4 +1,4 @@
-# 01-Mini-Project
+# Contacts
 Repository for Module1 Mini Project which will create a HTML landing page to collect visitor's contact information
 ## Description
 A new landing page called "My New Website" is created using HTML and CSS learned in Module 1 of the Coding Bootcamp.  This page has following property
@@ -28,7 +28,7 @@ A new landing page called "My New Website" is created using HTML and CSS learned
 * The page is deployed to GitHub Pages.
 
 ## Usage
-The landing page is accessed by the URL: https://rbhumbla1.github.io/01-Mini-Project/
+The landing page is accessed by the URL: https://rbhumbla1.github.io/Contacts/
 
 ## Credits
 
